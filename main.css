@@ -1,5 +1,5 @@
 body{
-  font-family: 'lato', sans-serif;
+  font-family: 'Archivo', sans-serif;
 }
 
 
@@ -35,4 +35,12 @@ body{
     'footer footer footer footer footer footer'
 
   padding: 10px;
+}
+
+.icons_boven{
+  width: 50px;
+}
+
+.icons_onder{
+  width: 20px;
 }
